@@ -1,0 +1,1 @@
+"# Web App Hacking\n\nThis folder will cover tools like `Burp Suite`, `OWASP ZAP`, and manual testing.\n\n? Labs will cover:\n- Input validation attacks\n- Broken authentication tests\n\n?? Labs in progress - stay tuned." 

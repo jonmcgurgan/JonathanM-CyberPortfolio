@@ -1,0 +1,1 @@
+"# Network Enumeration\n\nThis folder will include tools like `netdiscover`, `arp-scan`, and Wireshark basics.\n\n? Labs will cover:\n- Subnet scanning\n- Host identification\n\n?? Labs in progress - stay tuned." 
