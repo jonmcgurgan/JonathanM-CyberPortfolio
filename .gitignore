@@ -1,0 +1,17 @@
+# Ignore OS files 
+.DS_Store 
+Thumbs.db 
+ECHO is on.
+# Editor files 
+.vscode/ 
+*.sublime-workspace 
+ECHO is on.
+# Python cache 
+*.pyc 
+__pycache__/ 
+ECHO is on.
+# Logs and exports 
+*.log 
+*.tmp 
+notes_drafts/ 
+exports/ 
