@@ -1,0 +1,19 @@
+# Ignore node modules
+node_modules/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Logs
+*.log
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Visual Studio Code
+.vscode/
+
+# JetBrains
+.idea/
